@@ -1,4 +1,4 @@
-# Personal Informatics & Visual Encoding: Daily Tracking Analysis 📊
+# Personal Informatics & Visual Encoding: Daily Tracking Analysis [Handing Drawing] 📊
 
 This repository contains an academic information design project exploring the relationship between environmental factors (temperature, location), social contexts, and emotional well-being across a 5-day observation period at the University of Toronto. 
 
